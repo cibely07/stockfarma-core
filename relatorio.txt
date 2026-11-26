@@ -1,0 +1,4 @@
+Relatório StockFarma - gerado em 25/11/2026 21:22
+Valor total: R$ 5741,60
+Vencendo em 30 dias: [Vitamina C 1g, Desloratadina 5mg, Amoxicilina 500mg]
+Estoque baixo: Amoxicilina 500mg, Azitromicina 500mg, Complexo B
